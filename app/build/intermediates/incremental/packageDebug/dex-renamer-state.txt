@@ -1,0 +1,7 @@
+#Tue Feb 28 13:26:44 IST 2017
+base.0=/home/vikas/Desktop/CartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_808eb89b49a2989fa8282b7c9675c7344d736120
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vikas/Desktop/CartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bc531f5efef76eb53b96d7df0a39d0d05c29bd4a/classes.dex
+base.1=/home/vikas/Desktop/CartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bc531f5efef76eb53b96d7df0a39d0d05c29bd4a
+file.0=/home/vikas/Desktop/CartApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_808eb89b49a2989fa8282b7c9675c7344d736120/classes.dex
